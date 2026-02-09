@@ -8,7 +8,6 @@ I am an engineering student in Digital Transformation and Artificial Intelligenc
 ![](https://nirzak-streak-stats.vercel.app/?user=Essouiriaya&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Essouiriaya&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Essouiriaya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
